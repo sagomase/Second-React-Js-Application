@@ -1,7 +1,16 @@
-![Evening](https://user-images.githubusercontent.com/90255998/147399064-da0ab6d7-6f22-4c60-b00b-525cd745be01.png)
-![Lunch](https://user-images.githubusercontent.com/90255998/147399069-e5e57c3e-fddb-4088-b93a-d64f1f4729d1.png)
+Menu
 ![All](https://user-images.githubusercontent.com/90255998/147399071-4b690f32-9b8c-4450-bcc9-c42e695964b5.png)
+
+Evening Menu
+![Evening](https://user-images.githubusercontent.com/90255998/147399064-da0ab6d7-6f22-4c60-b00b-525cd745be01.png)
+
+Lunch Menu
+![Lunch](https://user-images.githubusercontent.com/90255998/147399069-e5e57c3e-fddb-4088-b93a-d64f1f4729d1.png)
+
+Breakfast Menu
 ![Breckfast](https://user-images.githubusercontent.com/90255998/147399078-87e369ff-424a-48ee-9e91-fdf0cf4883d1.png)
+
+Dinner Menu
 ![Dinner](https://user-images.githubusercontent.com/90255998/147399080-e998250b-4a06-4794-9f42-b8ff8755226f.png)
 
 
