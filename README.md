@@ -1,3 +1,5 @@
+Create a simple react web app that will display a list of recipe/meal
+
 Menu
 ![All](https://user-images.githubusercontent.com/90255998/147399071-4b690f32-9b8c-4450-bcc9-c42e695964b5.png)
 
